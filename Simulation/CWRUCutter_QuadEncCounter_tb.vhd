@@ -85,5 +85,61 @@ begin
             tb_enc_a <= not tb_enc_a;
             wait for 60 ns;
         end loop;
+        
+        -- Loop with encoder B leading encoder A
+        for i in 0 to 9 loop
+            tb_enc_b <= not tb_enc_b;
+            wait for 60 ns;
+            tb_enc_a <= not tb_enc_a;
+            wait for 60 ns;
+        end loop;
+        
+        tb_direction <= '0';
+        wait for 20 ns;
+        
+        -- Loop with encoder A leading encoder B
+        for i in 0 to 9 loop
+            tb_enc_a <= not tb_enc_a;
+            wait for 60 ns;
+            tb_enc_b <= not tb_enc_b;
+            wait for 60 ns;
+        end loop;
+        
+        -- Loop with encoder B leading encoder A
+        for i in 0 to 9 loop
+            tb_enc_b <= not tb_enc_b;
+            wait for 60 ns;
+            tb_enc_a <= not tb_enc_a;
+            wait for 60 ns;
+        end loop;
+        
+        -- Loop with encoder A leading encoder B
+        for i in 0 to 9 loop
+            tb_enc_a <= not tb_enc_a;
+            wait for 60 ns;
+            tb_enc_b <= not tb_enc_b;
+            wait for 60 ns;
+        end loop;
+        
+        tb_enc_reset <= '1';
+        wait for 60 ns;
+        tb_enc_reset <= '0';
+        wait for 60 ns;        
+        
+        -- Loop with encoder B leading encoder A
+        for i in 0 to 9 loop
+            tb_enc_b <= not tb_enc_b;
+            wait for 60 ns;
+            tb_enc_a <= not tb_enc_a;
+            wait for 60 ns;
+        end loop;
+        
+        -- Loop with encoder A leading encoder B
+        for i in 0 to 9 loop
+            tb_enc_a <= not tb_enc_a;
+            wait for 60 ns;
+            tb_enc_b <= not tb_enc_b;
+            wait for 60 ns;
+        end loop;
     end process;
 end rtl;

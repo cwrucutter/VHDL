@@ -7,7 +7,7 @@
 -- Inputs:
 --   ENC_A: Encoder A channel
 --   ENC_B: Encoder B channel
---   DIRECTION: True-  increments when A leads B, decrements when B leads A
+--   DIRECTION: True-  increments when B leads A, decrements when B leads A
 --              False- increments when B leads A, decrements when A leads B
 --   ENC_RESET: Reset the count
 -- 
@@ -50,6 +50,9 @@ begin
         enc_b_old     <= '0';
         count_int     <= (others => '0');
       elsif rising_edge(clk) then
+        enc_a_old <= ENC_A;
+        enc_b_old <= ENC_B;
+      
         if ENC_RESET = '1' then
             count_int <= (others => '0');
         else
