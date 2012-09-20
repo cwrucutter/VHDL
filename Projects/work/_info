@@ -1,0 +1,227 @@
+m255
+K3
+13
+cModel Technology
+Z0 dM:\CWRUCutterHex\VHDL\Projects
+Ecwrucutter_pwminput
+Z1 w1348103101
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dM:\CWRUCutterHex\VHDL\Projects
+Z6 8M:/CWRUCutterHex/VHDL/CWRUCutter_PWMInput.vhd
+Z7 FM:/CWRUCutterHex/VHDL/CWRUCutter_PWMInput.vhd
+l0
+L24
+VfbA[@Rj?FI^BTK6cm:VTM3
+Z8 OP;C;10.1c;51
+32
+Z9 !s108 1348109765.442000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|M:/CWRUCutterHex/VHDL/CWRUCutter_PWMInput.vhd|
+Z11 !s107 M:/CWRUCutterHex/VHDL/CWRUCutter_PWMInput.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+!s100 D8>W4VO7lNXH9KZ4YfcM>2
+!i10b 1
+Artl
+R2
+R3
+R4
+DEx4 work 19 cwrucutter_pwminput 0 22 fbA[@Rj?FI^BTK6cm:VTM3
+l52
+L34
+V8L?BnzX8QI:>TOodlCPMi2
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 i<f]zh03LdnS?`<E`B;QY1
+!i10b 1
+Ecwrucutter_pwminput_tb
+Z14 w1348100905
+R2
+R3
+R4
+R5
+Z15 8M:/CWRUCutterHex/VHDL/Simulation/CWRUCutter_PWMInput_tb.vhd
+Z16 FM:/CWRUCutterHex/VHDL/Simulation/CWRUCutter_PWMInput_tb.vhd
+l0
+L15
+VEYZ<z?IRMbjFC7j1bTQ^D2
+R8
+32
+Z17 !s108 1348109765.936000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|M:/CWRUCutterHex/VHDL/Simulation/CWRUCutter_PWMInput_tb.vhd|
+Z19 !s107 M:/CWRUCutterHex/VHDL/Simulation/CWRUCutter_PWMInput_tb.vhd|
+R12
+R13
+!s100 <Z2@UG=0kccMTdAnLJ?hE1
+!i10b 1
+Artl
+R2
+R3
+R4
+DEx4 work 22 cwrucutter_pwminput_tb 0 22 EYZ<z?IRMbjFC7j1bTQ^D2
+l35
+L18
+V20_i5zIG7nfK?RV<Y>c5f3
+R8
+32
+R17
+R18
+R19
+R12
+R13
+!s100 nPaz^;dMJ2z`>ggCAdZ9l1
+!i10b 1
+Ecwrucutter_pwmoutput
+Z20 w1348097393
+R2
+R3
+R4
+R5
+Z21 8M:/CWRUCutterHex/VHDL/CWRUCutter_PWMOutput.vhd
+Z22 FM:/CWRUCutterHex/VHDL/CWRUCutter_PWMOutput.vhd
+l0
+L24
+VDC=oPkUP7YCiVYJYMc0g?1
+R8
+32
+Z23 !s108 1348109765.646000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|M:/CWRUCutterHex/VHDL/CWRUCutter_PWMOutput.vhd|
+Z25 !s107 M:/CWRUCutterHex/VHDL/CWRUCutter_PWMOutput.vhd|
+R12
+R13
+!s100 39WERM^azhJiIUaZ::67T0
+!i10b 1
+Artl
+R2
+R3
+R4
+DEx4 work 20 cwrucutter_pwmoutput 0 22 DC=oPkUP7YCiVYJYMc0g?1
+l41
+L34
+V6JPlL[Cl>>8cd7M043NgC2
+R8
+32
+R23
+R24
+R25
+R12
+R13
+!s100 EQdk4gHK^>_iZ;<Nd1C;a3
+!i10b 1
+Ecwrucutter_pwmoutput_tb
+Z26 w1348087459
+R2
+R3
+R4
+R5
+Z27 8M:/CWRUCutterHex/VHDL/Simulation/CWRUCutter_PWMOutput_tb.vhd
+Z28 FM:/CWRUCutterHex/VHDL/Simulation/CWRUCutter_PWMOutput_tb.vhd
+l0
+L15
+Vf2_nZJMo_YfaQgPYSzB[T1
+R8
+32
+Z29 !s108 1348109766.157000
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|M:/CWRUCutterHex/VHDL/Simulation/CWRUCutter_PWMOutput_tb.vhd|
+Z31 !s107 M:/CWRUCutterHex/VHDL/Simulation/CWRUCutter_PWMOutput_tb.vhd|
+R12
+R13
+!s100 f`XeG5QH]BhlMZN<I:<^G2
+!i10b 1
+Artl
+R2
+R3
+R4
+DEx4 work 23 cwrucutter_pwmoutput_tb 0 22 f2_nZJMo_YfaQgPYSzB[T1
+l35
+L18
+Vz3z[nFzoeVFO6S=@Y[LWW3
+!s100 e<91M11;55zQK=C5jg5A;3
+R8
+32
+R29
+R30
+R31
+R12
+R13
+!i10b 1
+Ecwrucutter_quadenccounter
+Z32 w1348101917
+R2
+R3
+R4
+R5
+Z33 8M:/CWRUCutterHex/VHDL/CWRUCutter_QuadEncCounter.vhd
+Z34 FM:/CWRUCutterHex/VHDL/CWRUCutter_QuadEncCounter.vhd
+l0
+L27
+V:R3cYE;bKl?Y5LWBFA7DA0
+R8
+32
+Z35 !s108 1348109765.823000
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|M:/CWRUCutterHex/VHDL/CWRUCutter_QuadEncCounter.vhd|
+Z37 !s107 M:/CWRUCutterHex/VHDL/CWRUCutter_QuadEncCounter.vhd|
+R12
+R13
+!s100 <XSTRDTzVE`i[5[TlgamL3
+!i10b 1
+Artl
+R2
+R3
+R4
+DEx4 work 25 cwrucutter_quadenccounter 0 22 :R3cYE;bKl?Y5LWBFA7DA0
+l43
+L39
+V=@joTKi396eBcJM0Dhkb`3
+R8
+32
+R35
+R36
+R37
+R12
+R13
+!s100 cF@M=e9P;WW[HdMhS7D8b1
+!i10b 1
+Ecwrucutter_quadenccounter_tb
+Z38 w1348109757
+R2
+R3
+R4
+R5
+Z39 8M:/CWRUCutterHex/VHDL/Simulation/CWRUCutter_QuadEncCounter_tb.vhd
+Z40 FM:/CWRUCutterHex/VHDL/Simulation/CWRUCutter_QuadEncCounter_tb.vhd
+l0
+L15
+V`IGlQ;djRkbKIK=fT_Q3[0
+!s100 9cWKNF[If2WJhSeP:VLfT0
+R8
+32
+!i10b 1
+Z41 !s108 1348109766.268000
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|M:/CWRUCutterHex/VHDL/Simulation/CWRUCutter_QuadEncCounter_tb.vhd|
+Z43 !s107 M:/CWRUCutterHex/VHDL/Simulation/CWRUCutter_QuadEncCounter_tb.vhd|
+R12
+R13
+Artl
+R2
+R3
+R4
+Z44 DEx4 work 28 cwrucutter_quadenccounter_tb 0 22 `IGlQ;djRkbKIK=fT_Q3[0
+l39
+L18
+V`_76QZ^g_@_d6Id>Kdj5Z2
+!s100 3V23KgYZ7=[aQcVk2a`g[0
+R8
+32
+!i10b 1
+R41
+R42
+R43
+R12
+R13
